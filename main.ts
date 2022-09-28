@@ -9,7 +9,7 @@ export function squareNumber(n: number) {
 export const rect = {
   length: 5,
   width: 4,
-  area(): void {
-    console.log(this.length * this.width);
+  area(): number {
+    return this.length * this.width;
   }
 };

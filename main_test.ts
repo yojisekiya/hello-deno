@@ -10,5 +10,5 @@ Deno.test("15.6 練習問題（３）", () => {
 });
 
 Deno.test("15.6 練習問題（３）", () => {
-  assertEquals(rect.area(), console.log(20));
+  assertEquals(rect.area(), 20);
 });
