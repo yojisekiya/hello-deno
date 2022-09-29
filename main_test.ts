@@ -9,6 +9,6 @@ Deno.test("15.6 練習問題（３）", () => {
   assertEquals(squareNumber(2), 4);
 });
 
-Deno.test("15.6 練習問題（３）", () => {
+Deno.test("15.16 練習問題（7）", () => {
   assertEquals(rect.area(), 20);
 });
